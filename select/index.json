@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Fo",
+  "base_artist": "dodo",
+  "createdAt": "2026-02-09T05:12:20.945444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "D.'s Car Jam / Anxious Mo-Fo",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/01_D.'s_Car_Jam___Anxious_Mo-Fo_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "D's Car Jam\u0000Anxious Mo-Fo",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/02_D's_Car_Jam\u0000Anxious_Mo-Fo_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fo Yo Sorrows",
+      "artist": "Big Boi feat. George Clinton, Too Short & Sam Chris",
+      "has_synced": true,
+      "path": "select/03_Fo_Yo_Sorrows_Big_Boi_feat._George_Clinton,_Too_Short_&_Sam_Chris.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fo Yo Sorrows (Feat. George Clinton, Too Short & Sam Chris)",
+      "artist": "Big Boi",
+      "has_synced": true,
+      "path": "select/04_Fo_Yo_Sorrows_(Feat._George_Clinton,_Too_Short_&_Sam_Chris)_Big_Boi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fee Fi Fo",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/05_Fee_Fi_Fo_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fee Fi Fo",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/06_Fee_Fi_Fo_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Once Upon A Time the Battle fo",
+      "artist": "Good Charlotte",
+      "has_synced": false,
+      "path": "select/07_Once_Upon_A_Time_the_Battle_fo_Good_Charlotte.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "That's My Nigga Fo' Real - Soundtrack Version (Edited)",
+      "artist": "Young Zee",
+      "has_synced": false,
+      "path": "select/08_That's_My_Nigga_Fo'_Real_-_Soundtrack_Version_(Edited)_Young_Zee.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "That's My Nigga Fo' Real (From \"8 Mile\" Soundtrack)",
+      "artist": "Young Zee",
+      "has_synced": false,
+      "path": "select/09_That's_My_Nigga_Fo'_Real_(From__8_Mile__Soundtrack)_Young_Zee.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Yo Fo",
+      "artist": "Molotov",
+      "has_synced": true,
+      "path": "select/10_Yo_Fo_Molotov.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bring Back Somethin Fo Da Hood",
+      "artist": "Coolio",
+      "has_synced": true,
+      "path": "select/11_Bring_Back_Somethin_Fo_Da_Hood_Coolio.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lovin' Mother Fo Ya",
+      "artist": "John Mellencamp",
+      "has_synced": true,
+      "path": "select/12_Lovin'_Mother_Fo_Ya_John_Mellencamp.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fo Sheezy",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/13_Fo_Sheezy_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fo Sheezy (Album Version Explicit)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/14_Fo_Sheezy_(Album_Version_Explicit)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bo fo Sho",
+      "artist": "Bo Burnham",
+      "has_synced": false,
+      "path": "select/15_Bo_fo_Sho_Bo_Burnham.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Dont Remember Ill Never Fo",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": true,
+      "path": "select/16_You_Dont_Remember_Ill_Never_Fo_Yngwie_Malmsteen.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Down Fo' Boogie (Live)",
+      "artist": "Tesla",
+      "has_synced": false,
+      "path": "select/17_Down_Fo'_Boogie_(Live)_Tesla.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Down Fo' Boogie",
+      "artist": "Tesla",
+      "has_synced": false,
+      "path": "select/18_Down_Fo'_Boogie_Tesla.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fo",
+      "artist": "dodo",
+      "has_synced": false,
+      "path": "select/pl_01_Fo_dodo.txt"
+    }
+  ]
+}
